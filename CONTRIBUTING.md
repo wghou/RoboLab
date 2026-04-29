@@ -12,4 +12,4 @@ Support is best-effort. We will continue iterating toward a more stable release.
 
 ## Acknowledgements
 
-We thank the following additional contributors for their help in building RoboLab: Arhan Jain, Alperen Degirmenci, Siyi Chen.
+We thank the following additional contributors for their help in building RoboLab: Arhan Jain, Karl Pertsch, Alperen Degirmenci, Siyi Chen.
